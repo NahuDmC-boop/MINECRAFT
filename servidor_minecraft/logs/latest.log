@@ -179,3 +179,13 @@
 [23Jun2025 22:53:51.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
 [23Jun2025 22:54:42.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [23Jun2025 22:54:42.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[23Jun2025 23:01:08.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Jun2025 23:01:08.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Jun2025 23:01:08.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Jun2025 23:01:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Jun2025 23:01:12.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Jun2025 23:01:12.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Jun2025 23:01:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jun2025 23:01:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jun2025 23:01:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jun2025 23:01:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
